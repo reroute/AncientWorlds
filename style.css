@@ -1,0 +1,35 @@
+h1 {
+font-family: GeoSlab703MdPLRegular;
+color: #cccccc;
+}
+
+#header {
+height: 138px;
+background: #ffffff url('http://www.ancientworldsalive.com/headerbg.jpg') repeat-x; 
+position: fixed;
+}
+
+#nav {
+float: right;
+}
+#header ul#nav li {
+float: left;
+margin-left: 20px;
+}
+
+#header ul#nav a:hover {
+color: red;
+}
+.active {
+color: blue;
+  
+}
+
+li2 {
+background: #000000;
+}
+
+#logo {
+float: left;
+margin-left: 120px;
+}
