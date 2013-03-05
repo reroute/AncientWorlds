@@ -7,7 +7,7 @@
 
 <div id="history">
 <p>
-Egyptian identity is closely tied to geography. The population of Egypt is concentrated in the lower Nile valley, the small strip of cultivable land stretching from the First Cataract to the Mediterranean and enclosed by desert both to the east and to the west. This unique geography has been the basis of the development of Egyptian society since antiquity. If regarded as a single ethnic group, the Egyptian people constitute one of the world's largest.
+Egyptian Identity Identity Identityis closely tied to geography. The population of Egypt is concentrated in the lower Nile valley, the small strip of cultivable land stretching from the First Cataract to the Mediterranean and enclosed by desert both to the east and to the west. This unique geography has been the basis of the development of Egyptian society since antiquity. If regarded as a single ethnic group, the Egyptian people constitute one of the world's largest.
 
 The daily language of the Egyptians is the local variety of Arabic, known as Egyptian Arabic or Masri, Also a sizable minority of Egyptian speak Sa'idi Arabic in Upper Egypt. Egyptians are predominantly adherents of Sunni Islam with a Shia minority and a significant proportion who follow native Sufi orders.[12] A sizable minority of Egyptians belong to the Coptic Orthodox Church, whose liturgical language, Coptic, is the last stage of the indigenous Egyptian language.
 
