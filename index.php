@@ -7,11 +7,9 @@
 
 <div id="history">
 <p>
-Egyptian Identity Identity Identityis closely tied to geography. The population of Egypt is concentrated in the lower Nile valley, the small strip of cultivable land stretching from the First Cataract to the Mediterranean and enclosed by desert both to the east and to the west. This unique geography has been the basis of the development of Egyptian society since antiquity. If regarded as a single ethnic group, the Egyptian people constitute one of the world's largest.
+Holy Pamoli what just happened here
 
-The daily language of the Egyptians is the local variety of Arabic, known as Egyptian Arabic or Masri, Also a sizable minority of Egyptian speak Sa'idi Arabic in Upper Egypt. Egyptians are predominantly adherents of Sunni Islam with a Shia minority and a significant proportion who follow native Sufi orders.[12] A sizable minority of Egyptians belong to the Coptic Orthodox Church, whose liturgical language, Coptic, is the last stage of the indigenous Egyptian language.
 
-In 1860 the London, Chatham and Dover Railway purchased 75 acres (300,000 m2) of land in Battersea, formerly part of the Long Hedge farm, to establish their locomotive works and the motive power depot, to provide motive power for services from the new London Victoria railway station (then under construction). The depot was originally known as ‘Longhedge’. In February 1862 a semi-roundhouse running shed was opened with space for 26 locomotives.[1] The site was expanded in 1875/6 with 40 tracks around the central turntable, although only half were under cover.[2]
 
 The original depot was demolished in 1880/1 and replaced by a larger 16-road through shed on the same site, which was officially known as Stewarts Lane – but usually referred to as ‘Battersea’ or ‘Longhedge’ by the men.[3] A coaling stage, turntable and wheel drop were provided. The depot was re-organised and a large mechanical coaling plant was added to enable the depot to deal with an increased locomotive allocation after 1932, following the closure of the nearby London Brighton and South Coast Railway Battersea shed. Stewarts Lane was provided with an asbestos roof in 1934 [4] It suffered from bomb damage during the Second World War, some of which was never repaired. Otherwise it remained largely unchanged until closure to steam in 1963. Thereafter the tracks remained in use for stabling diesel locomotives, although much of the original building was destroyed by fire in 1967.
 
